@@ -1,0 +1,6 @@
+{
+  "name": "Eco-Shield - Disaster Response & Emergency Preparedness",
+  "description": "Clean, modern, high-fidelity disaster response and emergency preparedness platform for mobile and desktop, featuring live Google Maps, SOS escalation system, real-time hazard alerts, evacuation centers, and IoT environmental intelligence.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
